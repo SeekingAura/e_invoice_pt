@@ -1,0 +1,45 @@
+{
+    "recommendations": [
+      // WSL
+      "ms-vscode-remote.remote-wsl",
+
+      // SSH
+      "ms-vscode-remote.remote-ssh",
+
+      // Coding management Gen
+      "streetsidesoftware.code-spell-checker",
+      "dotenv.dotenv-vscode",
+      "earshinov.sort-lines-by-selection",
+
+      // Git
+      "eamodio.gitlens",
+  
+      // JSON tool
+      "quicktype.quicktype",
+  
+      // Visual code manage
+      "PKief.material-icon-theme",
+      "wengerk.highlight-bad-chars",
+
+      // Docker
+      "ms-azuretools.vscode-docker",
+
+      // Markdown
+      "yzhang.markdown-all-in-one",
+
+      // CSV Management
+      "GrapeCity.gc-excelviewer",
+      "mechatroner.rainbow-csv",
+
+      // Python
+      "ms-python.python",
+      "ms-python.mypy-type-checker",
+      "ms-python.vscode-pylance",
+      "ms-python.isort",
+      "ms-python.flake8",
+      "ms-python.black-formatter",
+
+      // Docstring
+      "njpwerner.autodocstring",
+    ]
+}
