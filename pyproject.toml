@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "e-invoice-pt"
+version = "0.1.0"
+description = "Invoice analytics from CSV explain the Purchaser's role in the process required for provisional IRS deductions."
+authors = ["Carlos Moreno <dev@seekingaura.com>"]
+license = "GPL-3.0-or-later"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
