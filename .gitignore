@@ -170,6 +170,10 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# Input and output files for running CLI
+/input/*
+/output/*
+
 # IDE - VSCode
 .vscode/*
 !.vscode/*-template.json
